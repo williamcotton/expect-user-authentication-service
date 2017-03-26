@@ -1,0 +1,28 @@
+{
+  "name": "expect-user-authentication-service",
+  "version": "1.0.0",
+  "description": "Expect User Authentication Service",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-user-authentication-service.git"
+  },
+  "keywords": [
+    "expect",
+    "user",
+    "authentication",
+    "service"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-user-authentication-service/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-user-authentication-service#readme"
+}
